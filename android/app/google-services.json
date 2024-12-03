@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557434128767",
+    "project_id": "nfc-attendance-88f57",
+    "storage_bucket": "nfc-attendance-88f57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557434128767:android:0ca3bb0dee80027721724a",
+        "android_client_info": {
+          "package_name": "com.example.nfc_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAebEl4IZ97YFX8FFz7juLRNK3FtCmfr00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
